@@ -1,4 +1,9 @@
 media
+<<<<<<< HEAD
 *.xml
 .idea/Karate.iml
 lib/config.php
+=======
+*.iml
+*.xml
+>>>>>>> e5302eb210c19eaf302f752d675636647923a6d5
