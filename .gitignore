@@ -1,1 +1,4 @@
 media
+*.xml
+.idea/Karate.iml
+lib/config.php
